@@ -1,9 +1,9 @@
 # massdrop
 
 ## Dependencies:
-* rethinkdb
-* redis
+* rethinkdb (default ports)
+* redis (default ports)
 
 ## Setup
-* run npmstart
+* run npm start
 * go to localhost:3000
